@@ -1,0 +1,4 @@
+['remote "s3remote"']
+url = s3://dataset-server/mnist
+[core]
+remote = s3remote
