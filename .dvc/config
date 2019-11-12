@@ -1,4 +1,4 @@
 ['remote "s3remote"']
-url = s3://dataset-server/mnist
+url = s3://dataset-server/caltechtest
 [core]
 remote = s3remote
